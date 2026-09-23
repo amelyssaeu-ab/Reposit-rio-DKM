@@ -568,7 +568,6 @@ elif tarefa_selecionada == "Tarefa 10 — Probabilidade Condicional":
 
         Portanto, \(P(A \mid B)\) e \(P(B \mid A)\) não representam necessariamente a mesma situação. A condição considerada muda a pergunta que está sendo feita.
         """)
-        st.image("imagens/grafico1.png", width=1000)
 
     # --- T10: 3. EXEMPLO EM SITUAÇÃO BIOLÓGICA ---
     elif secao_t10 == "3. Exemplo em Situação Biológica":
